@@ -3,8 +3,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- ♿ &nbsp; Unreal Engine Beginners
-- 🤔 &nbsp; Unreal Engine Learning...
+- ♿ &nbsp; Unreal Engine Developer
+- 🤔 &nbsp; Engine Toolchain Developer
+- 👻 &nbsp; Junior Game Developer
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
