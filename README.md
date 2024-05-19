@@ -46,6 +46,6 @@
 <p align="center">
 <a href="https://santa.wang/"><img alt="Website" src="https://img.shields.io/badge/Website-santa.wang-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.cn/incareer/in/ACoAADO49wAB0mGsjh9V_nYLshxtFn4AsZW2TjA"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-WangXudong-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://twitter.com/FiveMileFog"><img alt="Twitter" src="https://img.shields.io/badge/twitter-FiveMileFog-blue?style=flat-square&logo=twitter"></a>
+<a href="https://twitter.com/FiveMileFog"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-FiveMileFog-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:dzxmxd@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-dzxmxd@outlook.com-blue?style=flat-square&logo=microsoftoutlook"></a>
 </p>
