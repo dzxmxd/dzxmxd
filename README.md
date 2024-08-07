@@ -35,7 +35,7 @@
 <br/>
 
 <a href="https://github.com/dzxmxd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dzxmxd&theme=buefy&show_icons=true" />
+  <!-- overall merit <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dzxmxd&theme=buefy&show_icons=true" /> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzxmxd&theme=buefy&layout=compact" />
 </a>
 
