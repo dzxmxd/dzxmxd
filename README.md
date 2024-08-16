@@ -5,7 +5,7 @@
 
 - ♿ &nbsp; Unreal Engine Developer
 - 🤔 &nbsp; Engine Toolchain Developer
-- 👻 &nbsp; Junior Game Developer
+- 👻 &nbsp; Senior Game Developer
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
